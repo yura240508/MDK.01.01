@@ -312,6 +312,3 @@ if (phrase.ends_with("bye"))     { /* ... */ }
 6. Для сортировки — `std::sort` или `std::ranges::sort` (C++20).
 7. `string` = `vector<char>` + удобные методы (`substr`, `find`, `insert`, `replace`, `erase`).
 
----
-
-*Конспект создан на основе статьи из хендбука по C++ от Яндекса.*
